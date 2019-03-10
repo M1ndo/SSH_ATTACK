@@ -10,7 +10,7 @@ except :
 print """
 
 	SSH Attack script
-	Written By : ybenel
+	Written By : ybenel 
 	Email : ybenel@molero.xyz
 
 	[WARNING] Only use it for hacking purpose
